@@ -1,4 +1,4 @@
-package io.khalid.springbootstarter.topic;
+package io.khalid.springbootquickstart.he;
 
 public class Topic {
 	private String id;

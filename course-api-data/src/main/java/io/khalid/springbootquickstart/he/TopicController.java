@@ -1,4 +1,4 @@
-package io.khalid.springbootstarter.topic;
+package io.khalid.springbootquickstart.he;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ public class TopicController {
 
 	@Autowired
 	private TopicServices topiService;
-	
+
 	@RequestMapping("/topics")
 	public List<Topic> getAllTopic() {
 		return topiService.getAllService();

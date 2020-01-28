@@ -1,4 +1,4 @@
-package io.khalid.springbootstarter.topic;
+package io.khalid.springbootquickstart.he;
 
 import java.util.ArrayList;
 import java.util.Arrays;
