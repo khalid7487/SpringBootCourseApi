@@ -1,4 +1,4 @@
-package io.khalid.springbootquickstart.he;
+package io.khalid.springbootquickstart.course;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
